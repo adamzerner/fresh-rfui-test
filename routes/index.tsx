@@ -27,7 +27,7 @@ import {
 export default () => {
   return (
     <Stack class="gap-8">
-      <H1>Heading</H1>
+      <H1>Heading test</H1>
       <H2>Subheading</H2>
       <Flex class="gap-3 flex-wrap">
         <Badge type="neutral">neutral</Badge>
